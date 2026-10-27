@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kingaraash508-debug.github.io/sahlan-premium-cleaners/sitemap.xml
